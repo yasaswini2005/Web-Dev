@@ -24,18 +24,13 @@
     
     width: 75%;
     height: 53vw;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+   border: 2px solid black;
+   
   
    
 
 }
-.main-container-in {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+
 .nav-header{
  border: 2px solid black;
  height: 8vw;
